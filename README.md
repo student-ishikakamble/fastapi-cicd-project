@@ -86,16 +86,3 @@ GitHub → GitHub Actions → Docker → Railway → FastAPI
 * GitHub: [https://github.com/student-ishikakamble](https://github.com/student-ishikakamble)
 * Email: ishikakamble24@gmail.com
 
--
----
-
-# 🚀 If you want next upgrade (VERY powerful)
-
-I can also help you add:
-
-* 🔥 Animated banner (profile header image)
-* 🔥 GitHub contribution graph style upgrades
-* 🔥 Resume bullet points from this profile
-* 🔥 “Hire me” portfolio page version
-
-Just say 👍
