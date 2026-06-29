@@ -1,77 +1,101 @@
-# FastAPI CI/CD Project 🚀
+# 🚀 Hi, I'm Ishika Kamble
 
-## Overview
+### 💻 DevOps Engineer
 
-A FastAPI application demonstrating modern DevOps practices including:
+I am passionate about building scalable backend systems, CI/CD pipelines, and cloud-native applications using modern DevOps tools.
 
-- FastAPI REST API
-- Docker containerization
-- GitHub Actions CI pipeline
-- Automated testing with Pytest
-- Railway cloud deployment
-- Health monitoring endpoint
+---
+ About Me
 
-## Tech Stack
+*  Currently working on **FastAPI + CI/CD + Docker projects**
+*  Learning **AWS & Cloud Deployment**
+*  Building real-world DevOps pipelines using GitHub Actions
+*  Containerizing apps using Docker
+*  Deploying applications on Railway / Cloud platforms
+*  Interested in automation, scalability, and system design
 
-- Python 3.10
-- FastAPI
-- Docker
-- GitHub Actions
-- Railway
-- Pytest
+---
+Tech Stack
 
-## Live Demo
+### Languages
 
-https://fastapi-cicd-project-production.up.railway.app
+* Python
+* SQL
+* Bash
 
-## API Documentation
+###  Backend
 
-https://fastapi-cicd-project-production.up.railway.app/docs
+* FastAPI
+* REST APIs
 
-## Health Check
+###  DevOps Tools
 
-https://fastapi-cicd-project-production.up.railway.app/health
+* Docker
+* GitHub Actions (CI/CD)
+* Linux
+* Railway Deployment
 
-## Run Locally
+### Databases
 
-```bash
-git clone https://github.com/student-ishikakamble/fastapi-cicd-project.git
-cd fastapi-cicd-project
+* PostgreSQL
+* Redis (basic)
 
-pip install -r requirements.txt
-uvicorn main:app --reload
+---
+ Featured Project
+
+### FastAPI CI/CD Project
+
+A production-like CI/CD pipeline project demonstrating modern DevOps workflow.
+
+🔗 Live Demo:
+[https://fastapi-cicd-project-production.up.railway.app/](https://fastapi-cicd-project-production.up.railway.app/)
+
+📘 API Docs:
+[https://fastapi-cicd-project-production.up.railway.app/docs](https://fastapi-cicd-project-production.up.railway.app/docs)
+
+❤️ Health Check:
+[https://fastapi-cicd-project-production.up.railway.app/health](https://fastapi-cicd-project-production.up.railway.app/health)
+
+### ⚙️ Features:
+
+* FastAPI backend
+* Docker containerization
+* GitHub Actions CI pipeline
+* Automated testing (pytest)
+* Railway deployment
+* Health monitoring endpoint
+
+---
+
+## 🏗 Architecture
+
+```
+GitHub → GitHub Actions → Docker → Railway → FastAPI
 ```
 
-## Run Tests
+---
 
-```bash
-pytest -v
-```
+## 📈 GitHub Stats
 
-## Docker
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=student-ishikakamble\&show_icons=true\&theme=tokyonight)
 
-```bash
-docker build -t fastapi-app .
-docker run -p 8000:8000 fastapi-app
-```
+---
 
-## CI Pipeline
+## 📫 Connect with Me
 
-GitHub Actions automatically:
+* GitHub: [https://github.com/student-ishikakamble](https://github.com/student-ishikakamble)
+* Email: ishikakamble24@gmail.com
 
-- Installs dependencies
-- Runs automated tests
-- Validates application integrity
+-
+---
 
-## Project Structure
+# 🚀 If you want next upgrade (VERY powerful)
 
-```text
-fastapi-cicd-project/
-│
-├── .github/workflows/
-├── Dockerfile
-├── main.py
-├── requirements.txt
-├── test_main.py
-└── README.md
-```
+I can also help you add:
+
+* 🔥 Animated banner (profile header image)
+* 🔥 GitHub contribution graph style upgrades
+* 🔥 Resume bullet points from this profile
+* 🔥 “Hire me” portfolio page version
+
+Just say 👍
